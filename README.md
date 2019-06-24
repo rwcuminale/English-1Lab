@@ -21,6 +21,8 @@ For the duration of the year you will cultivate habits and grow in confidence re
 We will also work closely with your English 1 teachers to help you in a concrete way toward success in that class.
 By the end of this course, you should leave with the capability to meet the rigor of the English 2 curriculum (if not English 2 Honors) with ease. 
 
+Please follow this link for the [Course Goals](https://github.com/rwcuminale/English-1Lab/01-CourseLogistics/E1L-CourseGoals.md).
+
 ## What You Need
 
 The following materials are required every class:

@@ -1,60 +1,40 @@
 # Course Goals
-## English 3
+## English 1 Lab
 
-Most importantly, above all else, my aim is for students to leave this course with three things:
-* Know that the writing process generates ideas, and the best way to beat writers block is to write
-* See confusion as an opportunity to discover your best thinking
-* Understand the importance and relevance of literary voices, even if they're different from your own
-* Develop the habit of reading and listening critically so you are not easily fooled
+Most importantly, above all else, my aim is for students to leave this course with five things:
 
-A more detailed list of academic goals for English 3 follows.
+* Discovering the joys of reading and writing for yourself;
+* A sense of confidence when you must read or write because you have to;
+* Knowledge of how to make the writing process work for you;
+* Earning a killer grade in English 1;
+* The accomplishment of reading 1,000 pages this year.
+
+A more precise and detailed list follows:
 
 ---
-### Literature
-* Read a literary text (poem, narrative, or drama) closely and be able to write thoughtfully about its meaning and technique
-* Understand what a poem is and what they aim to do
-* Know the five elements of a narrative and how to use them to analyze one
-* Understand how diction creates denotative, connotative, and figurative meaning
-* Identify and describe important literary techniques, especially use of:
-  * Metaphor
-  * Arrangement
-  * Sound
-  * Irony
-  * Paradox
-* Read and appreciate a diversity of important literary works in American history
-* Understand the aim of literature and track the development of ideas through a text
-* Know the foundational works of literature in American history
-### Rhetoric
-* Read and carefully deconstruct the technique of rhetorical texts
-* Identify and describe usage of ethos, pathos, and logos approaches
-* Create rhetorical works using these deliberate techniques and approaches
-* Read and appreciate important works of rhetoric in American history
-* Discern point of view behind informational texts
-* Discover reliable news sources and understand their biases
-* Know the foundational rhetorical texts in American hostory
+
 ### Writing
-* Know how to approach and have experience in writing a variety of forms:
-  * Expository
-  * Narrative
-  * Persuasive
-  * Poetic
-* Know the elements of grammar and syntax, especially parts of speech and identifying various types of clauses and sentence patterns
-* Read literature and rhetoric both as a reader and a writer
-* Understand and pick up on ironic or satirical writing -- see the tension between meaning and intent
-* Read and respond to critical writing about literary and rhetorical texts
-* Know how to do informal, non-academic research without a library or librarian
-* Grow in vocabulary recognition and usage
-### Dispositions
-* Take academic ownership of skill, knowledge, habits and behavior
-* Master a personal writing process that creates quality work
-* Know how to prepare for and participate in Socratic seminars and other forms of in-class discourse
-* Become comfortable in confusion and appreciate the value of the question
-* Persist in reading difficult and/or extended texts
-  * Work through areas of confusion without giving up
-  * Read continuously in at least thirty-minute periods
-  * Read actively a continuous text of more than 300 pages
-* Persist in writing complex and developing ideas
-  * Use writing itself as a tool to develop sophisticated ideas, then review for thesis or theme
-  * Apply writing strategies to clarify writing, making revision a natural practice
-* Achieve a comfort level in presenting information to a class
-* Know and practice how to engage authentically with an English class
+
+* Compose works that communicate things you find important
+* Become comfortable writing even if you're not sure what to write about
+* Develop strategies to create an effective writing process
+* Learn the rules of your and others' grammar and why these rules are important
+* Grow in the ability to write at length
+* Make revising your writing a natural part of your writing process
+
+### Reading
+
+* Read things you enjoy and find interesting to talk about
+* See the value in reading stories you can't immediately relate to
+* Become comfortable reading for at least 20 minutes at a time
+* Learn how to figure out working meanings of words you don't understand when you read
+* Know solidly twelve essential literary terms
+
+### Action
+
+* Take responsibility for your academic destiny
+* Grow in confidence speaking in academic discussions
+* Become a leader in your English 1 groups
+* Learn and apply habits of self-discipline to get you what you want
+* Create effective systems to track and complete long and short-term assignments
+* See the value in the thoughts and voices of your peers

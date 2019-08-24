@@ -2,14 +2,14 @@
 
 #### Engineering & Science University Magnet School
 
-New Haven Public Schools  
-500 Boston Post Road  
+New Haven Public Schools
+500 Boston Post Road
 West Haven, CT 06516
 
 #### Richard Cuminale
 
-Email: richard.cuminale@nhboe.net  
-Github: https://github.com/rwcuminale/English-1Lab  
+Email: richard.cuminale@nhboe.net
+Github: https://github.com/rwcuminale/English-1Lab
 Twitter: @RichardCuminale
 
 ## Overview
@@ -24,9 +24,9 @@ For the duration of the year you will cultivate habits
 We will also work closely with your English 1 teachers to help you in a concrete way toward success in that class.
 By the end of this course,
 	you should leave with the capability to meet the rigor of the English 2 curriculum
-	(if not English 2 Honors) with ease. 
+	(if not English 2 Honors) with ease.
 
-Please follow this link for the [Course Goals](https://github.com/rwcuminale/English-1Lab/01-CourseLogistics/E1L-CourseGoals.md).
+Please follow this link for the [Course Goals](https://github.com/rwcuminale/English-1Lab/blob/master/01-CourseLogistics/E1L-CourseGoals.md).
 
 ## What You Need
 
@@ -54,18 +54,18 @@ I will check your planning book at the beginning of every class.
 
 ### Compositions: 30%
 
-Each quarter you will complete three formal compositions. 
+Each quarter you will complete three formal compositions.
 These assignments are meant to help you become accustomed to writing in a formal manner
 	and to practice the skills your are learning in and out of English class.
 Typically, compositions will be completed entirely in class and will not add to your homework load.
 Expect a typical length of 300 words.
 You will never receive a failing grade for your writing quality --
-you only fail if you do not follow directions. 
+you only fail if you do not follow directions.
 
 ### Preparedness and Participation: 30%
 
 The participation grade describes engagement with the course and the course activities.
-Every class you begin with a 8/10 grade named "Participation" for being present and attentive. 
+Every class you begin with a 8/10 grade named "Participation" for being present and attentive.
 You earn a 10/10 by making an active contribution to the academic environment,
 	either to the class as a whole or in your smaller groups.
 Every class also has a "Prepared" grade for being ready to work when class begins.
@@ -75,11 +75,11 @@ Lastly, you will earn a "Classwork" grade every class for in-class exercises.
 
 #### Personal Reading
 
-This course values the habit of reading extended texts. 
+This course values the habit of reading extended texts.
 We all read manifold texts throughout the day,
-	but there is something important about the experience of becoming immersed in a good book. 
-Therefore, I periodically dedicate class time to reading for pleasure. 
-I have a selection of interesting works if you would like to borrow one from time to time. 
+	but there is something important about the experience of becoming immersed in a good book.
+Therefore, I periodically dedicate class time to reading for pleasure.
+I have a selection of interesting works if you would like to borrow one from time to time.
 Please see me to check one out.
 
 #### Journal Writing
@@ -88,27 +88,27 @@ It's self-evident that the more you write, the easier writing becomes and the mo
 Research strongly suggests that the physical act of writing increases your focus
 	and cultivates more sophisticated thinking.
 For this reason I dedicate time every class to write freely in a personal journal.
-I will assess them for length: 
+I will assess them for length:
 	you should aim to write roughly one full page per writing session (150-200 words).
 
 #### Class Activities
 
 I design class activities to create meaningful educational experiences and to help you get better working with English.
-Following directions and trying your best are also important aspects of belonging to a learning community. 
+Following directions and trying your best are also important aspects of belonging to a learning community.
 When you don't work hard
 	-- even if you are quiet and not "disruptive" --
-	it nevertheless affects both your learning experience *and those around you*. 
+	it nevertheless affects both your learning experience *and those around you*.
 Do your best every class.
 
 #### Reflective Writing
 
 Often at the end of class you will receive a short writing prompt
-	to reinforce or extend the lines of inquiry of the day's lesson. 
-Honest, informal, short but intelligent writing is valued here. 
+	to reinforce or extend the lines of inquiry of the day's lesson.
+Honest, informal, short but intelligent writing is valued here.
 
 ### Midterms and Finals
 
-In lieu of Midterm and Final Exams, you will perform a reflective exercise 
+In lieu of Midterm and Final Exams, you will perform a reflective exercise
 	that makes use of the portfolio-binders you have created throughout the year in your English 1 classes.
 Keeping a well-supplied and organized portfolio is essential in order to earn high marks on these two assessments.
 Midterms and Finals each count for 10% of your course grade,
@@ -119,9 +119,9 @@ Midterms and Finals each count for 10% of your course grade,
 ### Logistics
 
 I will communicate assignments to you in class, write them on the board,
-	and give time at the end of class for entering this information into a planner. 
-Students are expected to track their assignments. 
-I collect all assignments as hard copies. 
+	and give time at the end of class for entering this information into a planner.
+Students are expected to track their assignments.
+I collect all assignments as hard copies.
 I post assignments and classroom announcements on Twitter,
 	and I maintain a Github repository for copies of anything I hand out to you.
 
@@ -138,11 +138,11 @@ There may be times when you type in class and at those times only are you allowe
 
 ### Attendance
 
-Excused absences result in excused class participation for the day. 
+Excused absences result in excused class participation for the day.
 Any major deadlines are moved to the next class.
-You are counted absent if you do not show up to class or are absent without permission. 
-If you are absent for an in-class assignment, you must make it up for homework. 
-If you are absent for a quiz, you must take it the day you return. 
+You are counted absent if you do not show up to class or are absent without permission.
+If you are absent for an in-class assignment, you must make it up for homework.
+If you are absent for a quiz, you must take it the day you return.
 Unexcused absences will not be afforded these opportunities:
 	the work will count as a zero, and the deadlines remain.
 Unexcused absences from my class when you are present in school attendance will result in a write up and call home.

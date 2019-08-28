@@ -2,15 +2,15 @@
 
 #### Engineering & Science University Magnet School
 
-New Haven Public Schools  
-500 Boston Post Road  
-West Haven, CT 06516  
+New Haven Public Schools
+500 Boston Post Road
+West Haven, CT 06516
 
 #### Richard Cuminale
 
-Email: richard.cuminale@nhboe.net  
-Github: https://github.com/rwcuminale/English-1Lab  
-Twitter: @RichardCuminale  
+Email: richard.cuminale@nhboe.net
+Github: https://github.com/rwcuminale/English-1Lab
+Twitter: @RichardCuminale
 
 ## Overview
 
@@ -106,7 +106,7 @@ Often at the end of class you will receive a short writing prompt
 	to reinforce or extend the lines of inquiry of the day's lesson.
 Honest, informal, short but intelligent writing is valued here.
 
-### Midterms and Finals
+### Midterms and Final Exams
 
 In lieu of Midterm and Final Exams, you will perform a reflective exercise
 	that makes use of the portfolio-binders you have created throughout the year in your English 1 classes.

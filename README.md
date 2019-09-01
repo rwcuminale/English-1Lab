@@ -62,7 +62,7 @@ Expect a typical length of 300 words.
 You will never receive a failing grade for your writing quality --
 you only fail if you do not follow directions.
 
-### Preparedness and Participation: 30%
+### Preparedness and Participation: 40%
 
 The participation grade describes engagement with the course and the course activities.
 Every class you begin with a 8/10 grade named "Participation" for being present and attentive.
